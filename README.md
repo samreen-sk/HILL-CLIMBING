@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: SHAIK SAMREEN I        </h3>
+<h3>Name: SHAIK SAMREEN       </h3>
 <h3>Register Number: 212223110047         </h3>
 
 <H3> Aim : </H3>
